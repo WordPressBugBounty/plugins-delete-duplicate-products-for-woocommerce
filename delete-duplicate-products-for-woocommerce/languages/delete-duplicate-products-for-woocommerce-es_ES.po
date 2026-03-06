@@ -1,0 +1,578 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Delete Duplicate Products for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-24 05:01+0000\n"
+"PO-Revision-Date: 2026-02-19 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4\n"
+"X-Domain: delete-duplicate-products-for-woocommerce"
+
+#: delete-duplicate-products-for-woocommerce.php
+#, php-format
+msgid "%d per page"
+msgstr "%d por página"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "&raquo;"
+msgstr "&raquo;"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "301 automatic redirects"
+msgstr "Redireccionamientos 301 automáticos"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "301 Redirects"
+msgstr "Redireccionamientos 301"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "301 Redirects — Pro Feature"
+msgstr "Redireccionamientos 301 — Función Pro"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "301 redirects are disabled. Go to 301 Redirects to enable them."
+msgstr "Los redireccionamientos 301 están desactivados. Ve a Redireccionamientos 301 para activarlos."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "301 redirects enabled: deleted products will redirect to the canonical product."
+msgstr "Redireccionamientos 301 activados: los productos eliminados redirigirán al producto canónico."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "301 redirects enabled: deleted products will redirect to the product category."
+msgstr "Redireccionamientos 301 activados: los productos eliminados redirigirán a la categoría del producto."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "301 redirects enabled: deleted products will redirect to the homepage."
+msgstr "Redireccionamientos 301 activados: los productos eliminados redirigirán a la página de inicio."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "5 sites: $59 · Unlimited: $99"
+msgstr "5 sitios: $59 · Ilimitado: $99"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "A review on WordPress.org helps other users discover the plugin and supports its development."
+msgstr "Una reseña en WordPress.org ayuda a otros usuarios a descubrir el plugin y apoya su desarrollo."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Action"
+msgstr "Acción"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Action blocked — free plan daily limit reached."
+msgstr "Acción bloqueada — límite diario del plan gratuito alcanzado."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Action Logs"
+msgstr "Registros de acciones"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Actions"
+msgstr "Acciones"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "All images have been removed from selected products."
+msgstr "Todas las imágenes han sido eliminadas de los productos seleccionados."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "All Statuses"
+msgstr "Todos los estados"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Apply"
+msgstr "Aplicar"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Are you sure you want to delete the selected products?"
+msgstr "¿Estás seguro de que deseas eliminar los productos seleccionados?"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Are you sure you want to move the selected products to draft?"
+msgstr "¿Estás seguro de que deseas mover los productos seleccionados a borrador?"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Are you sure you want to move the selected products to trash?"
+msgstr "¿Estás seguro de que deseas mover los productos seleccionados a la papelera?"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Are you sure you want to permanently delete the selected products? This cannot be undone."
+msgstr "¿Estás seguro de que deseas eliminar permanentemente los productos seleccionados? Esta acción no se puede deshacer."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Are you sure you want to remove images from the selected products? This cannot be undone."
+msgstr "¿Estás seguro de que deseas eliminar las imágenes de los productos seleccionados? Esta acción no se puede deshacer."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "As a Pro user you have access to priority support. We are here to help you."
+msgstr "Como usuario Pro tienes acceso al soporte prioritario. Estamos aquí para ayudarte."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Automatically create 301 redirects when duplicate products are deleted"
+msgstr "Crear automáticamente redireccionamientos 301 cuando se eliminen productos duplicados"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Automatically create 301 redirects when you delete duplicate products, preserving your SEO rankings and preventing broken links."
+msgstr "Crea automáticamente redireccionamientos 301 al eliminar productos duplicados, preservando tu posicionamiento SEO y evitando enlaces rotos."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Available in Pro version"
+msgstr "Disponible en la versión Pro"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Canonical Product"
+msgstr "Producto canónico"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Categories"
+msgstr "Categorías"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Category:"
+msgstr "Categoría:"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Category filter"
+msgstr "Filtro por categoría"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Choose where deleted duplicate products should redirect to."
+msgstr "Elige a dónde deben redirigir los productos duplicados eliminados."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Created"
+msgstr "Creado"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Date"
+msgstr "Fecha"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Date Created"
+msgstr "Fecha de creación"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Delete Duplicate Products for WooCommerce — Developed with love by Luis Peel"
+msgstr "Delete Duplicate Products for WooCommerce — Desarrollado con amor por Luis Peel"
+
+#. Name of the plugin
+msgid "Delete Duplicate Products for WooCommerce"
+msgstr "Eliminar productos duplicados para WooCommerce"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Delete Permanently"
+msgstr "Eliminar permanentemente"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Delete Selected Products"
+msgstr "Eliminar Productos Seleccionados"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Delete Selected Redirects"
+msgstr "Eliminar redireccionamientos seleccionados"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Details"
+msgstr "Detalles"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Draft"
+msgstr "Borrador"
+
+#. %1$s: identifier type (Title or SKU), %2$s: the duplicate identifier
+#, php-format
+msgid "Duplicate %1$s: %2$s"
+msgstr "Duplicado %1$s: %2$s"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Duplicate Products"
+msgstr "Productos Duplicados"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Edit"
+msgstr "Editar"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Enable 301 Redirects"
+msgstr "Activar redireccionamientos 301"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Enjoying the Pro version?"
+msgstr "¿Disfrutando de la versión Pro?"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Existing Redirects"
+msgstr "Redireccionamientos existentes"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Export to CSV"
+msgstr "Exportar a CSV"
+
+#: delete-duplicate-products-for-woocommerce.php
+#, php-format
+msgid "Failed to delete image (ID: %1$d) from product %2$d."
+msgstr "No se pudo eliminar la imagen (ID: %1$d) del producto %2$d."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Featured images have been removed from selected products."
+msgstr "Las imágenes destacadas han sido eliminadas de los productos seleccionados."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Filter by category"
+msgstr "Filtrar por categoría"
+
+#. Description of the plugin
+msgid "Find and delete duplicate products by title or SKU in WooCommerce."
+msgstr "Encuentra y elimina productos duplicados por título o SKU en WooCommerce."
+
+#: delete-duplicate-products-for-woocommerce.php
+#, php-format
+msgid "Found %d duplicate groups"
+msgstr "Se encontraron %d grupos duplicados"
+
+#: delete-duplicate-products-for-woocommerce.php
+#, php-format
+msgid "Free plan: %1$d of %2$d group cleanups used today (%3$d remaining — resets at midnight)."
+msgstr "Plan gratuito: %1$d de %2$d limpiezas de grupos usadas hoy (%3$d restantes — se reinicia a medianoche)."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "From URL"
+msgstr "Desde URL"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Gallery images have been removed from selected products."
+msgstr "Las imágenes de galería han sido eliminadas de los productos seleccionados."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Group"
+msgstr "Grupo"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Group by SKU"
+msgstr "Agrupar por SKU"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Group by Title"
+msgstr "Agrupar por Título"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Homepage"
+msgstr "Página de inicio"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Image"
+msgstr "Imagen"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Image Actions"
+msgstr "Acciones de imagen"
+
+#: delete-duplicate-products-for-woocommerce.php
+#, php-format
+msgid "Invalid image action requested: %s"
+msgstr "Acción de imagen no válida solicitada: %s"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Invalid nonce"
+msgstr "Nonce inválido"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Keep Newest"
+msgstr "Conservar el más nuevo"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Keep Newest / Keep Oldest"
+msgstr "Conservar el más nuevo / Conservar el más antiguo"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Keep Newest / Oldest"
+msgstr "Conservar el más nuevo / antiguo"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Keep Oldest"
+msgstr "Conservar el más antiguo"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Leave a Review"
+msgstr "Dejar una reseña"
+
+#. Author of the plugin
+msgid "Luis Peel"
+msgstr "Luis Peel"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Move to Draft"
+msgstr "Mover a borrador"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Move to Trash"
+msgstr "Mover a la papelera"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Need help?"
+msgstr "¿Necesitas ayuda?"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Next"
+msgstr "Siguiente"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "No 301 redirects found."
+msgstr "No se encontraron redireccionamientos 301."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "No action logs found."
+msgstr "No se encontraron registros de acciones."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "No duplicate products found."
+msgstr "No se encontraron productos duplicados."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "No duplicate products found with the current filters."
+msgstr "No se encontraron productos duplicados con los filtros actuales."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "per year / 1 site"
+msgstr "por año / 1 sitio"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Please select at least one action to perform."
+msgstr "Por favor, selecciona al menos una acción a realizar."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Please select at least one product."
+msgstr "Por favor, selecciona al menos un producto."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Please select at least one product to delete."
+msgstr "Por favor, seleccione al menos un producto para eliminar."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Previous"
+msgstr "Anterior"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Price"
+msgstr "Precio"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Priority support"
+msgstr "Soporte prioritario"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Priority Support"
+msgstr "Soporte prioritario"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Product"
+msgstr "Producto"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Product Actions"
+msgstr "Acciones de producto"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Product Category"
+msgstr "Categoría del producto"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Product deleted"
+msgstr "Producto eliminado"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Product ID"
+msgstr "ID de producto"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Product not found"
+msgstr "Producto no encontrado"
+
+#: delete-duplicate-products-for-woocommerce.php
+#, php-format
+msgid "Product not found. ID: %d"
+msgstr "Producto no encontrado. ID: %d"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Products Affected"
+msgstr "Productos afectados"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Published"
+msgstr "Publicado"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Rate the Plugin"
+msgstr "Calificar el plugin"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Redirect Destination"
+msgstr "Destino del redireccionamiento"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Redirect deleted products to the canonical product"
+msgstr "Redirigir productos eliminados al producto canónico"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Redirect to homepage"
+msgstr "Redirigir a la página de inicio"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Redirect to product category"
+msgstr "Redirigir a la categoría del producto"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Remove All Images"
+msgstr "Eliminar todas las imágenes"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Remove Featured Image"
+msgstr "Eliminar imagen destacada"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Remove Gallery Images"
+msgstr "Eliminar imágenes de galería"
+
+#: delete-duplicate-products-for-woocommerce.php
+#, php-format
+msgid "Select %s"
+msgstr "Seleccionar %s"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Select All"
+msgstr "Seleccionar Todo"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Selected products have been deleted successfully."
+msgstr "Los productos seleccionados han sido eliminados correctamente."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Selected products have been moved to draft status."
+msgstr "Los productos seleccionados han sido movidos a estado borrador."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Selected products have been moved to trash."
+msgstr "Los productos seleccionados han sido movidos a la papelera."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Selected products have been permanently deleted."
+msgstr "Los productos seleccionados han sido eliminados permanentemente."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Settings updated successfully."
+msgstr "Ajustes actualizados correctamente."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "SKU"
+msgstr "SKU"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Status"
+msgstr "Estado"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Status:"
+msgstr "Estado:"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "This feature requires a Pro license."
+msgstr "Esta función requiere una licencia Pro."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Title"
+msgstr "Título"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "To URL"
+msgstr "A URL"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Trash"
+msgstr "Papelera"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Unknown User"
+msgstr "Usuario desconocido"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Unlimited bulk actions"
+msgstr "Acciones masivas ilimitadas"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Unlock the full power — Upgrade to Pro"
+msgstr "Desbloquea todo el poder — Actualiza a Pro"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Upgrade to Pro"
+msgstr "Actualizar a Pro"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Upgrade to Pro →"
+msgstr "Actualizar a Pro →"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Upgrade to Pro to unlock actions"
+msgstr "Actualizar a Pro para desbloquear las acciones"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "URL"
+msgstr "URL"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "User"
+msgstr "Usuario"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "View"
+msgstr "Ver"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "View and manage all created redirects"
+msgstr "Ver y gestionar todos los redireccionamientos creados"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "When enabled, deleted duplicate products will automatically redirect to the specified destination."
+msgstr "Cuando está activado, los productos duplicados eliminados redirigirán automáticamente al destino especificado."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "You do not have sufficient permissions"
+msgstr "No tienes permisos suficientes"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tienes permisos suficientes para acceder a esta página."
+
+#: delete-duplicate-products-for-woocommerce.php
+#, php-format
+msgid "You have used all %1$d free group cleanups for today. The counter resets at midnight (UTC). %2$sUpgrade to Pro%3$s to continue without daily limits."
+msgstr "Has usado todas las %1$d limpiezas de grupos gratuitas del día. El contador se reinicia a medianoche (UTC). %2$sActualiza a Pro%3$s para continuar sin límites diarios."
+
+#: delete-duplicate-products-for-woocommerce.php
+#, php-format
+msgid "<strong>Free plan daily limit reached</strong> (%1$d/%2$d group cleanups used today — resets at midnight). %3$sUpgrade to Pro%4$s to continue without daily limits."
+msgstr "<strong>Límite diario del plan gratuito alcanzado</strong> (%1$d/%2$d limpiezas de grupos usadas hoy — se reinicia a medianoche). %3$sActualiza a Pro%4$s para continuar sin límites diarios."
+
+#: delete-duplicate-products-for-woocommerce.php
+#, php-format
+msgid "<strong>Free plan daily limit reached</strong> — %1$d of %2$d group cleanups used today. You can still view all duplicate groups below, but bulk actions are disabled until tomorrow (resets at midnight) or until you %3$supgrade to Pro%4$s."
+msgstr "<strong>Límite diario del plan gratuito alcanzado</strong> — %1$d de %2$d limpiezas de grupos usadas hoy. Puedes ver todos los grupos duplicados a continuación, pero las acciones masivas están desactivadas hasta mañana (se reinicia a medianoche) o hasta que %3$sactualices a Pro%4$s."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Select all — keep newest"
+msgstr "Seleccionar todo — conservar el más nuevo"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Select all — keep oldest"
+msgstr "Seleccionar todo — conservar el más antiguo"

@@ -1,0 +1,437 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Delete Duplicate Products for WooCommerce\n"
+"PO-Revision-Date: 2026-02-19 00:00+0000\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: delete-duplicate-products-for-woocommerce"
+
+#, php-format
+msgid "%d per page"
+msgstr "%d par page"
+
+msgid "&laquo;"
+msgstr "&laquo;"
+
+msgid "&raquo;"
+msgstr "&raquo;"
+
+msgid "301 automatic redirects"
+msgstr "Redirections 301 automatiques"
+
+msgid "301 Redirects"
+msgstr "Redirections 301"
+
+msgid "301 Redirects — Pro Feature"
+msgstr "Redirections 301 — Fonctionnalité Pro"
+
+msgid "301 redirects are disabled. Go to 301 Redirects to enable them."
+msgstr "Les redirections 301 sont désactivées. Allez dans Redirections 301 pour les activer."
+
+msgid "301 redirects enabled: deleted products will redirect to the canonical product."
+msgstr "Redirections 301 activées : les produits supprimés seront redirigés vers le produit canonique."
+
+msgid "301 redirects enabled: deleted products will redirect to the product category."
+msgstr "Redirections 301 activées : les produits supprimés seront redirigés vers la catégorie du produit."
+
+msgid "301 redirects enabled: deleted products will redirect to the homepage."
+msgstr "Redirections 301 activées : les produits supprimés seront redirigés vers la page d'accueil."
+
+msgid "5 sites: $59 · Unlimited: $99"
+msgstr "5 sites : $59 · Illimité : $99"
+
+msgid "A review on WordPress.org helps other users discover the plugin and supports its development."
+msgstr "Un avis sur WordPress.org aide d'autres utilisateurs à découvrir l'extension et soutient son développement."
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Action blocked — free plan daily limit reached."
+msgstr "Action bloquée — limite du plan gratuit atteinte."
+
+msgid "Action Logs"
+msgstr "Journaux d'actions"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "All Categories"
+msgstr "Toutes les catégories"
+
+msgid "All images have been removed from selected products."
+msgstr "Toutes les images ont été supprimées des produits sélectionnés."
+
+msgid "All Statuses"
+msgstr "Tous les statuts"
+
+msgid "Apply"
+msgstr "Appliquer"
+
+msgid "Are you sure you want to delete the selected products?"
+msgstr "Êtes-vous sûr de vouloir supprimer les produits sélectionnés ?"
+
+msgid "Are you sure you want to move the selected products to draft?"
+msgstr "Êtes-vous sûr de vouloir déplacer les produits sélectionnés en brouillon ?"
+
+msgid "Are you sure you want to move the selected products to trash?"
+msgstr "Êtes-vous sûr de vouloir déplacer les produits sélectionnés dans la corbeille ?"
+
+msgid "Are you sure you want to permanently delete the selected products? This cannot be undone."
+msgstr "Êtes-vous sûr de vouloir supprimer définitivement les produits sélectionnés ? Cette action est irréversible."
+
+msgid "Are you sure you want to remove images from the selected products? This cannot be undone."
+msgstr "Êtes-vous sûr de vouloir supprimer les images des produits sélectionnés ? Cette action est irréversible."
+
+msgid "As a Pro user you have access to priority support. We are here to help you."
+msgstr "En tant qu'utilisateur Pro, vous avez accès au support prioritaire. Nous sommes là pour vous aider."
+
+msgid "Automatically create 301 redirects when duplicate products are deleted"
+msgstr "Créer automatiquement des redirections 301 lorsque des produits en double sont supprimés"
+
+msgid "Automatically create 301 redirects when you delete duplicate products, preserving your SEO rankings and preventing broken links."
+msgstr "Créez automatiquement des redirections 301 lors de la suppression de produits en double, préservant votre référencement et évitant les liens brisés."
+
+msgid "Available in Pro version"
+msgstr "Disponible dans la version Pro"
+
+msgid "Canonical Product"
+msgstr "Produit canonique"
+
+msgid "Categories"
+msgstr "Catégories"
+
+msgid "Category:"
+msgstr "Catégorie :"
+
+msgid "Category filter"
+msgstr "Filtre par catégorie"
+
+msgid "Choose where deleted duplicate products should redirect to."
+msgstr "Choisissez où les produits en double supprimés doivent être redirigés."
+
+msgid "Created"
+msgstr "Créé"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Date Created"
+msgstr "Date de création"
+
+msgid "Delete Duplicate Products for WooCommerce — Developed with love by Luis Peel"
+msgstr "Delete Duplicate Products for WooCommerce — Développé avec amour par Luis Peel"
+
+msgid "Delete Duplicate Products for WooCommerce"
+msgstr "Supprimer les produits en double pour WooCommerce"
+
+msgid "Delete Permanently"
+msgstr "Supprimer définitivement"
+
+msgid "Delete Selected Products"
+msgstr "Supprimer les produits sélectionnés"
+
+msgid "Delete Selected Redirects"
+msgstr "Supprimer les redirections sélectionnées"
+
+msgid "Details"
+msgstr "Détails"
+
+msgid "Draft"
+msgstr "Brouillon"
+
+#, php-format
+msgid "Duplicate %1$s: %2$s"
+msgstr "Doublon %1$s : %2$s"
+
+msgid "Duplicate Products"
+msgstr "Produits en double"
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Enable 301 Redirects"
+msgstr "Activer les redirections 301"
+
+msgid "Enjoying the Pro version?"
+msgstr "Vous appréciez la version Pro ?"
+
+msgid "Existing Redirects"
+msgstr "Redirections existantes"
+
+msgid "Export to CSV"
+msgstr "Exporter en CSV"
+
+#, php-format
+msgid "Failed to delete image (ID: %1$d) from product %2$d."
+msgstr "Impossible de supprimer l'image (ID : %1$d) du produit %2$d."
+
+msgid "Featured images have been removed from selected products."
+msgstr "Les images à la une ont été supprimées des produits sélectionnés."
+
+msgid "Filter by category"
+msgstr "Filtrer par catégorie"
+
+msgid "Find and delete duplicate products by title or SKU in WooCommerce."
+msgstr "Trouvez et supprimez les produits en double par titre ou SKU dans WooCommerce."
+
+#, php-format
+msgid "Found %d duplicate groups"
+msgstr "%d groupes de doublons trouvés"
+
+#, php-format
+msgid "Free plan: %1$d of %2$d group cleanups used today (%3$d remaining — resets at midnight)."
+msgstr "Plan gratuit : %1$d sur %2$d nettoyages de groupes utilisés (%3$d restants)."
+
+msgid "From URL"
+msgstr "Depuis l'URL"
+
+msgid "Gallery images have been removed from selected products."
+msgstr "Les images de la galerie ont été supprimées des produits sélectionnés."
+
+msgid "Group"
+msgstr "Groupe"
+
+msgid "Group by SKU"
+msgstr "Grouper par SKU"
+
+msgid "Group by Title"
+msgstr "Grouper par titre"
+
+msgid "Homepage"
+msgstr "Page d'accueil"
+
+msgid "Image"
+msgstr "Image"
+
+msgid "Image Actions"
+msgstr "Actions sur les images"
+
+#, php-format
+msgid "Invalid image action requested: %s"
+msgstr "Action d'image non valide demandée : %s"
+
+msgid "Invalid nonce"
+msgstr "Nonce invalide"
+
+msgid "Keep Newest"
+msgstr "Garder le plus récent"
+
+msgid "Keep Newest / Keep Oldest"
+msgstr "Garder le plus récent / Garder le plus ancien"
+
+msgid "Keep Newest / Oldest"
+msgstr "Garder le plus récent / ancien"
+
+msgid "Keep Oldest"
+msgstr "Garder le plus ancien"
+
+msgid "Leave a Review"
+msgstr "Laisser un avis"
+
+msgid "Luis Peel"
+msgstr "Luis Peel"
+
+msgid "Move to Draft"
+msgstr "Déplacer en brouillon"
+
+msgid "Move to Trash"
+msgstr "Déplacer dans la corbeille"
+
+msgid "Need help?"
+msgstr "Besoin d'aide ?"
+
+msgid "Next"
+msgstr "Suivant"
+
+msgid "No 301 redirects found."
+msgstr "Aucune redirection 301 trouvée."
+
+msgid "No action logs found."
+msgstr "Aucun journal d'action trouvé."
+
+msgid "No duplicate products found."
+msgstr "Aucun produit en double trouvé."
+
+msgid "No duplicate products found with the current filters."
+msgstr "Aucun produit en double trouvé avec les filtres actuels."
+
+msgid "per year / 1 site"
+msgstr "par an / 1 site"
+
+msgid "Please select at least one action to perform."
+msgstr "Veuillez sélectionner au moins une action à effectuer."
+
+msgid "Please select at least one product."
+msgstr "Veuillez sélectionner au moins un produit."
+
+msgid "Please select at least one product to delete."
+msgstr "Veuillez sélectionner au moins un produit à supprimer."
+
+msgid "Previous"
+msgstr "Précédent"
+
+msgid "Price"
+msgstr "Prix"
+
+msgid "Priority support"
+msgstr "Support prioritaire"
+
+msgid "Priority Support"
+msgstr "Support prioritaire"
+
+msgid "Product"
+msgstr "Produit"
+
+msgid "Product Actions"
+msgstr "Actions sur les produits"
+
+msgid "Product Category"
+msgstr "Catégorie de produit"
+
+msgid "Product deleted"
+msgstr "Produit supprimé"
+
+msgid "Product ID"
+msgstr "ID du produit"
+
+msgid "Product not found"
+msgstr "Produit introuvable"
+
+#, php-format
+msgid "Product not found. ID: %d"
+msgstr "Produit introuvable. ID : %d"
+
+msgid "Products Affected"
+msgstr "Produits affectés"
+
+msgid "Published"
+msgstr "Publié"
+
+msgid "Rate the Plugin"
+msgstr "Évaluer l'extension"
+
+msgid "Redirect Destination"
+msgstr "Destination de la redirection"
+
+msgid "Redirect deleted products to the canonical product"
+msgstr "Rediriger les produits supprimés vers le produit canonique"
+
+msgid "Redirect to homepage"
+msgstr "Rediriger vers la page d'accueil"
+
+msgid "Redirect to product category"
+msgstr "Rediriger vers la catégorie du produit"
+
+msgid "Remove All Images"
+msgstr "Supprimer toutes les images"
+
+msgid "Remove Featured Image"
+msgstr "Supprimer l'image à la une"
+
+msgid "Remove Gallery Images"
+msgstr "Supprimer les images de la galerie"
+
+#, php-format
+msgid "Select %s"
+msgstr "Sélectionner %s"
+
+msgid "Select All"
+msgstr "Tout sélectionner"
+
+msgid "Selected products have been deleted successfully."
+msgstr "Les produits sélectionnés ont été supprimés avec succès."
+
+msgid "Selected products have been moved to draft status."
+msgstr "Les produits sélectionnés ont été déplacés en brouillon."
+
+msgid "Selected products have been moved to trash."
+msgstr "Les produits sélectionnés ont été déplacés dans la corbeille."
+
+msgid "Selected products have been permanently deleted."
+msgstr "Les produits sélectionnés ont été supprimés définitivement."
+
+msgid "Settings updated successfully."
+msgstr "Paramètres mis à jour avec succès."
+
+msgid "SKU"
+msgstr "SKU"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Status:"
+msgstr "Statut :"
+
+msgid "This feature requires a Pro license."
+msgstr "Cette fonctionnalité nécessite une licence Pro."
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "To URL"
+msgstr "Vers l'URL"
+
+msgid "Trash"
+msgstr "Corbeille"
+
+msgid "Unknown User"
+msgstr "Utilisateur inconnu"
+
+msgid "Unlimited bulk actions"
+msgstr "Actions en masse illimitées"
+
+msgid "Unlock the full power — Upgrade to Pro"
+msgstr "Déverrouillez toute la puissance — Passez à Pro"
+
+msgid "Upgrade to Pro"
+msgstr "Passer à Pro"
+
+msgid "Upgrade to Pro →"
+msgstr "Passer à Pro →"
+
+msgid "Upgrade to Pro to unlock actions"
+msgstr "Passer à Pro pour déverrouiller les actions"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "User"
+msgstr "Utilisateur"
+
+msgid "View"
+msgstr "Voir"
+
+msgid "View and manage all created redirects"
+msgstr "Voir et gérer toutes les redirections créées"
+
+msgid "When enabled, deleted duplicate products will automatically redirect to the specified destination."
+msgstr "Lorsqu'activé, les produits en double supprimés seront automatiquement redirigés vers la destination spécifiée."
+
+msgid "You do not have sufficient permissions"
+msgstr "Vous n'avez pas les autorisations suffisantes"
+
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas les autorisations suffisantes pour accéder à cette page."
+
+#, php-format
+msgid "You have used all %1$d free group cleanups. %2$sUpgrade to Pro%3$s to continue managing duplicate products without limits."
+msgstr "Vous avez utilisé tous vos %1$d nettoyages de groupes gratuits. %2$sPassez à Pro%3$s pour continuer à gérer les produits en double sans limites."
+
+#, php-format
+msgid "<strong>Free plan limit reached</strong> (%1$d/%2$d group cleanups used). %3$sUpgrade to Pro%4$s to continue without limits."
+msgstr "<strong>Limite du plan gratuit atteinte</strong> (%1$d/%2$d nettoyages de groupes utilisés). %3$sPassez à Pro%4$s pour continuer sans limites."
+
+#, php-format
+msgid "<strong>Free plan limit reached</strong> — %1$d of %2$d group cleanups used. You can still view all duplicate groups below, but bulk actions are disabled until you %3$supgrade to Pro%4$s."
+msgstr "<strong>Limite du plan gratuit atteinte</strong> — %1$d sur %2$d nettoyages de groupes utilisés. Vous pouvez toujours voir tous les groupes de doublons ci-dessous, mais les actions en masse sont désactivées jusqu'à ce que vous %3$spassiez à Pro%4$s."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Select all — keep newest"
+msgstr "Tout sélectionner — garder le plus récent"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Select all — keep oldest"
+msgstr "Tout sélectionner — garder le plus ancien"

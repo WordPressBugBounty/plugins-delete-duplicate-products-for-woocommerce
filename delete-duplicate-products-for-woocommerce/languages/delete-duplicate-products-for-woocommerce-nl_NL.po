@@ -1,0 +1,437 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Delete Duplicate Products for WooCommerce\n"
+"PO-Revision-Date: 2026-02-19 00:00+0000\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: delete-duplicate-products-for-woocommerce"
+
+#, php-format
+msgid "%d per page"
+msgstr "%d per pagina"
+
+msgid "&laquo;"
+msgstr "&laquo;"
+
+msgid "&raquo;"
+msgstr "&raquo;"
+
+msgid "301 automatic redirects"
+msgstr "301 automatische omleidingen"
+
+msgid "301 Redirects"
+msgstr "301 Omleidingen"
+
+msgid "301 Redirects — Pro Feature"
+msgstr "301 Omleidingen — Pro functie"
+
+msgid "301 redirects are disabled. Go to 301 Redirects to enable them."
+msgstr "301-omleidingen zijn uitgeschakeld. Ga naar 301 Omleidingen om ze in te schakelen."
+
+msgid "301 redirects enabled: deleted products will redirect to the canonical product."
+msgstr "301-omleidingen ingeschakeld: verwijderde producten worden doorgestuurd naar het canonieke product."
+
+msgid "301 redirects enabled: deleted products will redirect to the product category."
+msgstr "301-omleidingen ingeschakeld: verwijderde producten worden doorgestuurd naar de productcategorie."
+
+msgid "301 redirects enabled: deleted products will redirect to the homepage."
+msgstr "301-omleidingen ingeschakeld: verwijderde producten worden doorgestuurd naar de startpagina."
+
+msgid "5 sites: $59 · Unlimited: $99"
+msgstr "5 sites: $59 · Onbeperkt: $99"
+
+msgid "A review on WordPress.org helps other users discover the plugin and supports its development."
+msgstr "Een beoordeling op WordPress.org helpt andere gebruikers de plugin te ontdekken en ondersteunt de ontwikkeling."
+
+msgid "Action"
+msgstr "Actie"
+
+msgid "Action blocked — free plan daily limit reached."
+msgstr "Actie geblokkeerd — limiet van het gratis plan bereikt."
+
+msgid "Action Logs"
+msgstr "Actielogboeken"
+
+msgid "Actions"
+msgstr "Acties"
+
+msgid "All Categories"
+msgstr "Alle categorieën"
+
+msgid "All images have been removed from selected products."
+msgstr "Alle afbeeldingen zijn verwijderd van de geselecteerde producten."
+
+msgid "All Statuses"
+msgstr "Alle statussen"
+
+msgid "Apply"
+msgstr "Toepassen"
+
+msgid "Are you sure you want to delete the selected products?"
+msgstr "Weet je zeker dat je de geselecteerde producten wilt verwijderen?"
+
+msgid "Are you sure you want to move the selected products to draft?"
+msgstr "Weet je zeker dat je de geselecteerde producten naar concept wilt verplaatsen?"
+
+msgid "Are you sure you want to move the selected products to trash?"
+msgstr "Weet je zeker dat je de geselecteerde producten naar de prullenbak wilt verplaatsen?"
+
+msgid "Are you sure you want to permanently delete the selected products? This cannot be undone."
+msgstr "Weet je zeker dat je de geselecteerde producten permanent wilt verwijderen? Dit kan niet ongedaan worden gemaakt."
+
+msgid "Are you sure you want to remove images from the selected products? This cannot be undone."
+msgstr "Weet je zeker dat je de afbeeldingen van de geselecteerde producten wilt verwijderen? Dit kan niet ongedaan worden gemaakt."
+
+msgid "As a Pro user you have access to priority support. We are here to help you."
+msgstr "Als Pro-gebruiker heb je toegang tot prioriteitsondersteuning. We zijn er om je te helpen."
+
+msgid "Automatically create 301 redirects when duplicate products are deleted"
+msgstr "Automatisch 301-omleidingen aanmaken wanneer dubbele producten worden verwijderd"
+
+msgid "Automatically create 301 redirects when you delete duplicate products, preserving your SEO rankings and preventing broken links."
+msgstr "Maak automatisch 301-omleidingen aan bij het verwijderen van dubbele producten, zodat je SEO-posities behouden blijven en verbroken links worden voorkomen."
+
+msgid "Available in Pro version"
+msgstr "Beschikbaar in de Pro versie"
+
+msgid "Canonical Product"
+msgstr "Canoniek product"
+
+msgid "Categories"
+msgstr "Categorieën"
+
+msgid "Category:"
+msgstr "Categorie:"
+
+msgid "Category filter"
+msgstr "Categoriefilter"
+
+msgid "Choose where deleted duplicate products should redirect to."
+msgstr "Kies waarnaar verwijderde dubbele producten worden doorgestuurd."
+
+msgid "Created"
+msgstr "Aangemaakt"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Date Created"
+msgstr "Aanmaakdatum"
+
+msgid "Delete Duplicate Products for WooCommerce — Developed with love by Luis Peel"
+msgstr "Delete Duplicate Products for WooCommerce — Ontwikkeld met liefde door Luis Peel"
+
+msgid "Delete Duplicate Products for WooCommerce"
+msgstr "Dubbele producten verwijderen voor WooCommerce"
+
+msgid "Delete Permanently"
+msgstr "Permanent verwijderen"
+
+msgid "Delete Selected Products"
+msgstr "Geselecteerde producten verwijderen"
+
+msgid "Delete Selected Redirects"
+msgstr "Geselecteerde omleidingen verwijderen"
+
+msgid "Details"
+msgstr "Details"
+
+msgid "Draft"
+msgstr "Concept"
+
+#, php-format
+msgid "Duplicate %1$s: %2$s"
+msgstr "Duplicaat %1$s: %2$s"
+
+msgid "Duplicate Products"
+msgstr "Dubbele producten"
+
+msgid "Edit"
+msgstr "Bewerken"
+
+msgid "Enable 301 Redirects"
+msgstr "301-omleidingen inschakelen"
+
+msgid "Enjoying the Pro version?"
+msgstr "Geniet je van de Pro versie?"
+
+msgid "Existing Redirects"
+msgstr "Bestaande omleidingen"
+
+msgid "Export to CSV"
+msgstr "Exporteren naar CSV"
+
+#, php-format
+msgid "Failed to delete image (ID: %1$d) from product %2$d."
+msgstr "Kon afbeelding (ID: %1$d) van product %2$d niet verwijderen."
+
+msgid "Featured images have been removed from selected products."
+msgstr "Uitgelichte afbeeldingen zijn verwijderd van de geselecteerde producten."
+
+msgid "Filter by category"
+msgstr "Filteren op categorie"
+
+msgid "Find and delete duplicate products by title or SKU in WooCommerce."
+msgstr "Zoek en verwijder dubbele producten op titel of SKU in WooCommerce."
+
+#, php-format
+msgid "Found %d duplicate groups"
+msgstr "%d dubbele groepen gevonden"
+
+#, php-format
+msgid "Free plan: %1$d of %2$d group cleanups used today (%3$d remaining — resets at midnight)."
+msgstr "Gratis plan: %1$d van %2$d groepsopruimingen gebruikt (%3$d resterend)."
+
+msgid "From URL"
+msgstr "Van URL"
+
+msgid "Gallery images have been removed from selected products."
+msgstr "Galerijafbeeldingen zijn verwijderd van de geselecteerde producten."
+
+msgid "Group"
+msgstr "Groep"
+
+msgid "Group by SKU"
+msgstr "Groeperen op SKU"
+
+msgid "Group by Title"
+msgstr "Groeperen op titel"
+
+msgid "Homepage"
+msgstr "Startpagina"
+
+msgid "Image"
+msgstr "Afbeelding"
+
+msgid "Image Actions"
+msgstr "Afbeeldingsacties"
+
+#, php-format
+msgid "Invalid image action requested: %s"
+msgstr "Ongeldige afbeeldingsactie aangevraagd: %s"
+
+msgid "Invalid nonce"
+msgstr "Ongeldig nonce"
+
+msgid "Keep Newest"
+msgstr "Nieuwste behouden"
+
+msgid "Keep Newest / Keep Oldest"
+msgstr "Nieuwste behouden / Oudste behouden"
+
+msgid "Keep Newest / Oldest"
+msgstr "Nieuwste / Oudste behouden"
+
+msgid "Keep Oldest"
+msgstr "Oudste behouden"
+
+msgid "Leave a Review"
+msgstr "Een beoordeling achterlaten"
+
+msgid "Luis Peel"
+msgstr "Luis Peel"
+
+msgid "Move to Draft"
+msgstr "Verplaatsen naar concept"
+
+msgid "Move to Trash"
+msgstr "Verplaatsen naar prullenbak"
+
+msgid "Need help?"
+msgstr "Hulp nodig?"
+
+msgid "Next"
+msgstr "Volgende"
+
+msgid "No 301 redirects found."
+msgstr "Geen 301-omleidingen gevonden."
+
+msgid "No action logs found."
+msgstr "Geen actielogboeken gevonden."
+
+msgid "No duplicate products found."
+msgstr "Geen dubbele producten gevonden."
+
+msgid "No duplicate products found with the current filters."
+msgstr "Geen dubbele producten gevonden met de huidige filters."
+
+msgid "per year / 1 site"
+msgstr "per jaar / 1 site"
+
+msgid "Please select at least one action to perform."
+msgstr "Selecteer ten minste één actie om uit te voeren."
+
+msgid "Please select at least one product."
+msgstr "Selecteer ten minste één product."
+
+msgid "Please select at least one product to delete."
+msgstr "Selecteer ten minste één product om te verwijderen."
+
+msgid "Previous"
+msgstr "Vorige"
+
+msgid "Price"
+msgstr "Prijs"
+
+msgid "Priority support"
+msgstr "Prioriteitsondersteuning"
+
+msgid "Priority Support"
+msgstr "Prioriteitsondersteuning"
+
+msgid "Product"
+msgstr "Product"
+
+msgid "Product Actions"
+msgstr "Productacties"
+
+msgid "Product Category"
+msgstr "Productcategorie"
+
+msgid "Product deleted"
+msgstr "Product verwijderd"
+
+msgid "Product ID"
+msgstr "Product-ID"
+
+msgid "Product not found"
+msgstr "Product niet gevonden"
+
+#, php-format
+msgid "Product not found. ID: %d"
+msgstr "Product niet gevonden. ID: %d"
+
+msgid "Products Affected"
+msgstr "Getroffen producten"
+
+msgid "Published"
+msgstr "Gepubliceerd"
+
+msgid "Rate the Plugin"
+msgstr "Plugin beoordelen"
+
+msgid "Redirect Destination"
+msgstr "Omleidingsbestemming"
+
+msgid "Redirect deleted products to the canonical product"
+msgstr "Verwijderde producten omleiden naar het canonieke product"
+
+msgid "Redirect to homepage"
+msgstr "Omleiden naar startpagina"
+
+msgid "Redirect to product category"
+msgstr "Omleiden naar productcategorie"
+
+msgid "Remove All Images"
+msgstr "Alle afbeeldingen verwijderen"
+
+msgid "Remove Featured Image"
+msgstr "Uitgelichte afbeelding verwijderen"
+
+msgid "Remove Gallery Images"
+msgstr "Galerijafbeeldingen verwijderen"
+
+#, php-format
+msgid "Select %s"
+msgstr "%s selecteren"
+
+msgid "Select All"
+msgstr "Alles selecteren"
+
+msgid "Selected products have been deleted successfully."
+msgstr "De geselecteerde producten zijn succesvol verwijderd."
+
+msgid "Selected products have been moved to draft status."
+msgstr "De geselecteerde producten zijn verplaatst naar de conceptstatus."
+
+msgid "Selected products have been moved to trash."
+msgstr "De geselecteerde producten zijn verplaatst naar de prullenbak."
+
+msgid "Selected products have been permanently deleted."
+msgstr "De geselecteerde producten zijn permanent verwijderd."
+
+msgid "Settings updated successfully."
+msgstr "Instellingen succesvol bijgewerkt."
+
+msgid "SKU"
+msgstr "SKU"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Status:"
+msgstr "Status:"
+
+msgid "This feature requires a Pro license."
+msgstr "Deze functie vereist een Pro licentie."
+
+msgid "Title"
+msgstr "Titel"
+
+msgid "To URL"
+msgstr "Naar URL"
+
+msgid "Trash"
+msgstr "Prullenbak"
+
+msgid "Unknown User"
+msgstr "Onbekende gebruiker"
+
+msgid "Unlimited bulk actions"
+msgstr "Onbeperkte bulkacties"
+
+msgid "Unlock the full power — Upgrade to Pro"
+msgstr "Ontgrendel de volledige kracht — Upgrade naar Pro"
+
+msgid "Upgrade to Pro"
+msgstr "Upgraden naar Pro"
+
+msgid "Upgrade to Pro →"
+msgstr "Upgraden naar Pro →"
+
+msgid "Upgrade to Pro to unlock actions"
+msgstr "Upgraden naar Pro om acties te ontgrendelen"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "User"
+msgstr "Gebruiker"
+
+msgid "View"
+msgstr "Bekijken"
+
+msgid "View and manage all created redirects"
+msgstr "Alle aangemaakte omleidingen bekijken en beheren"
+
+msgid "When enabled, deleted duplicate products will automatically redirect to the specified destination."
+msgstr "Wanneer ingeschakeld, worden verwijderde dubbele producten automatisch doorgestuurd naar de opgegeven bestemming."
+
+msgid "You do not have sufficient permissions"
+msgstr "Je hebt onvoldoende rechten"
+
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Je hebt onvoldoende rechten om toegang te krijgen tot deze pagina."
+
+#, php-format
+msgid "You have used all %1$d free group cleanups. %2$sUpgrade to Pro%3$s to continue managing duplicate products without limits."
+msgstr "Je hebt alle %1$d gratis groepsopruimingen gebruikt. %2$sUpgrade naar Pro%3$s om dubbele producten zonder beperkingen te blijven beheren."
+
+#, php-format
+msgid "<strong>Free plan limit reached</strong> (%1$d/%2$d group cleanups used). %3$sUpgrade to Pro%4$s to continue without limits."
+msgstr "<strong>Limiet van het gratis plan bereikt</strong> (%1$d/%2$d groepsopruimingen gebruikt). %3$sUpgrade naar Pro%4$s om zonder beperkingen door te gaan."
+
+#, php-format
+msgid "<strong>Free plan limit reached</strong> — %1$d of %2$d group cleanups used. You can still view all duplicate groups below, but bulk actions are disabled until you %3$supgrade to Pro%4$s."
+msgstr "<strong>Limiet van het gratis plan bereikt</strong> — %1$d van %2$d groepsopruimingen gebruikt. Je kunt nog steeds alle dubbele groepen hieronder bekijken, maar bulkacties zijn uitgeschakeld totdat je %3$supgradet naar Pro%4$s."
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Select all — keep newest"
+msgstr "Alles selecteren — nieuwste behouden"
+
+#: delete-duplicate-products-for-woocommerce.php
+msgid "Select all — keep oldest"
+msgstr "Alles selecteren — oudste behouden"
